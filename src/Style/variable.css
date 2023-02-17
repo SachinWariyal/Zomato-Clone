@@ -1,0 +1,7 @@
+#root{
+    --primary-box-shadow:rgb(28 28 28 / 8%) 0px 2px 8px;
+    --border-white:rgb(232, 232, 232);
+    --primary-bg:rgb(255, 255, 255);
+    --zomato-location-grey : #828282;
+    --zomato-location-color: #ff7e8b;
+}
