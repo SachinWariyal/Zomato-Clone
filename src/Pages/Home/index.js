@@ -13,9 +13,9 @@ const Home = () => {
     <>
       <div>
         <Header />
-        {/* <TabOptions activeTab={activeTab} setActiveTab={setActiveTab} />
-        {getCorrectScreen(activeTab)} */}
-        {/* <Footer /> */}
+        <TabOptions activeTab={activeTab} setActiveTab={setActiveTab} />
+        {getCorrectScreen(activeTab)}
+        <Footer />
       </div>
     </>
   );

@@ -4,4 +4,7 @@
     --primary-bg:rgb(255, 255, 255);
     --zomato-location-grey : #828282;
     --zomato-location-color: #ff7e8b;
+    --inactive-text:#696969;
+    --inactive-color:#F8F8F8;
+    --filter-text:#9C9C9C;
 }
