@@ -20,7 +20,7 @@ const Header = () => {
             <div className="header-search-bar">
               <i class="fi fi-rr-search absolute-center search-icon"></i>
               <input
-                placeholder="Search for Restaurant, Cousine or a dish"
+                placeholder="Search for restaurant, cousine or a dish"
                 className="search-input"
               />
             </div>
