@@ -8,6 +8,7 @@
     background-color: var(--primary-bg);
     box-shadow: grey;
     border: 0.5px solid var(---border-white);
+    position: relative;
    
 }
 .top-brands-image{

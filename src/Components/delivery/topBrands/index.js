@@ -72,7 +72,7 @@ const TopBrands = () => {
                     <div className="top-brands-cover">
                         <img src={brand.cover} alt={brand.title} className='top-brands-image' />
                     </div>
-                    <div className="brand-name max-width">{brand.title}</div>
+                    {/* <div className="brand-name max-width">{brand.title}</div> */}
                     <div className="delivery-time">{brand.time}</div>
                 </div>
             })}
